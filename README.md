@@ -13,7 +13,7 @@ To illustrate a reproducible pathway on the open web, begin at the NFL News inde
 Practitioners can mirror our workflow by capturing daily snapshots from the league‑wide news index, enriching single‑athlete timelines from the corresponding player pages, and subscribing to the NFL feed via the RSS directory so interim updates are not missed. We recommend preserving the original URLs and timestamps for each item, maintaining a lightweight index of processed content, and deep linking in any downstream dashboards or executive briefs so analysts can verify provenance with a single click.
 
 ## Attribution & Use
-RotoWire’s pages and feeds are publicly accessible on the open web for reading; usage is governed by RotoWire’s terms. If you intend automated access, redistribution, or any use beyond personal reading and fair citation, review their terms and obtain permission as appropriate. The terms page is available at https://www.rotowire.com/termsandconditions.php. In our reports and artifacts, we explicitly attribute RotoWire and preserve direct links to originating items to maintain transparency and auditability.
+RotoWire’s pages and feeds are publicly accessible on the open web for reading; usage is governed by RotoWire’s terms. The terms page is available at https://www.rotowire.com/termsandconditions.php. In our reports and artifacts, we explicitly attribute RotoWire and preserve direct links to originating items to maintain transparency and auditability.
 
 ## Need Help?
 Are you a practitioner trying to replicate or build upon this research? Open a GitHub issue with any questions or thoughts, and we will respond!
